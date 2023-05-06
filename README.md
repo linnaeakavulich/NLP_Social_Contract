@@ -25,7 +25,7 @@ This analysis includes the following works
 
 ## Pipeline
 ```
-Notebooks were created in the followin order for the following aims
+Notebooks were created in the following order for the following aims
 ```
 | Title | Purpose | 
 | :- | :- |
