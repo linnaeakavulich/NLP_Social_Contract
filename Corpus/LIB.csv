@@ -1,0 +1,7 @@
+,book_id,source_file_path,chap_regex,title,author,book_len,n_chaps
+0,1,social_contract_rousseau.txt,\s*(chapter)\s+(?=([IVX]+))(\s|$),The Social Contract,Jean-Jacques Rousseau,111749,48
+1,2,hobbes_leviathan.txt,\s*CHAPTER\s+[IVXLCDM]+\.,Leviathan,Thomas Hobbes,224684,46
+2,3,locke_second.txt,\s*CHAPTER+\.\s+[IVXLCDM]+\.,The Second Treatise of Government,John Locke,58125,19
+3,4,rousseau_inequality.txt,\s*(DISCOURSE FIRST PART|SECOND PART)\s*,A Discourse Upon The Origin And The Foundation Of The Inequality Among Mankind,Jean-Jacques Rousseau,26001,2
+4,5,humane_understanding_locke.txt,\s*CHAPTER+\s+[IVXLCDM]+\.,An Essay Concerning Humane Understanding,John Locke,150692,37
+5,6,humane_understanding_vol2.txt,\s*CHAPTER+\s+[IVXLCDM]+\.,"An Essay Concerning Humane Understanding, Volume 2",John Locke,130868,32
